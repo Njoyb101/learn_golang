@@ -22,7 +22,7 @@ func main() {
 	for key,value := range languages {
 		fmt.Printf("For key %v, value is %v \n", key,value)
 	}
-	for key,_ := range languages {
+	for key, _ := range languages {
 		fmt.Printf("key is  %v\n", key)
 	}
 
