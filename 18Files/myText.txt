@@ -1,0 +1,2 @@
+This is start of the file\nAppended data
+New thing arrives APPEND
